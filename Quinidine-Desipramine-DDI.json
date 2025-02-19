@@ -1,0 +1,2806 @@
+{
+  "Version": 79,
+  "ExpressionProfiles": [
+    {
+      "Type": "Enzyme",
+      "Species": "Human",
+      "Molecule": "CYP3A4",
+      "Category": "Healthy",
+      "Parameters": [
+        {
+          "Path": "CYP3A4|Reference concentration",
+          "Value": 4.32,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "CYP3A4|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "CYP3A4|t1/2 (liver)",
+          "Value": 36.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "Organism|Brain|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0041682898325
+        },
+        {
+          "Path": "Organism|Gonads|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.00078691079081
+        },
+        {
+          "Path": "Organism|Kidney|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0053603428126
+        },
+        {
+          "Path": "Organism|Liver|Pericentral|Intracellular|CYP3A4|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Liver|Periportal|Intracellular|CYP3A4|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Lung|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.00042695753798
+        },
+        {
+          "Path": "Organism|SmallIntestine|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|Duodenum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerIleum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerJejunum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperIleum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperJejunum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        }
+      ],
+      "Localization": "Intracellular, BloodCellsIntracellular, VascEndosome",
+      "Ontogeny": {
+        "Name": "CYP3A4"
+      }
+    },
+    {
+      "Type": "Enzyme",
+      "Species": "Human",
+      "Molecule": "CYP2D6",
+      "Category": "Healthy",
+      "Parameters": [
+        {
+          "Path": "CYP2D6|Reference concentration",
+          "Value": 0.4,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "CYP2D6|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "CYP2D6|t1/2 (liver)",
+          "Value": 51.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "Organism|Brain|Intracellular|CYP2D6|Relative expression",
+          "Value": 0.00768702814
+        },
+        {
+          "Path": "Organism|Gonads|Intracellular|CYP2D6|Relative expression",
+          "Value": 0.768702814
+        },
+        {
+          "Path": "Organism|Kidney|Intracellular|CYP2D6|Relative expression",
+          "Value": 0.0208304736
+        },
+        {
+          "Path": "Organism|Liver|Pericentral|Intracellular|CYP2D6|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Liver|Periportal|Intracellular|CYP2D6|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Lung|Intracellular|CYP2D6|Relative expression",
+          "Value": 0.0223404255
+        },
+        {
+          "Path": "Organism|SmallIntestine|Intracellular|CYP2D6|Relative expression",
+          "Value": 0.0909402883
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|Duodenum|Intracellular|CYP2D6|Relative expression",
+          "Value": 0.0909402883
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerIleum|Intracellular|CYP2D6|Relative expression",
+          "Value": 0.0909402883
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerJejunum|Intracellular|CYP2D6|Relative expression",
+          "Value": 0.0909402883
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperIleum|Intracellular|CYP2D6|Relative expression",
+          "Value": 0.0909402883
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperJejunum|Intracellular|CYP2D6|Relative expression",
+          "Value": 0.0909402883
+        }
+      ],
+      "Localization": "Intracellular, BloodCellsIntracellular, VascEndosome",
+      "Ontogeny": {
+        "Name": "CYP2D6"
+      }
+    },
+    {
+      "Type": "Transporter",
+      "Species": "Human",
+      "Molecule": "ABCB1",
+      "Category": "Healthy",
+      "Parameters": [
+        {
+          "Path": "ABCB1|Reference concentration",
+          "Value": 1.41,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "ABCB1|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "ABCB1|t1/2 (liver)",
+          "Value": 36.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "Organism|Bone|Intracellular|ABCB1|Relative expression",
+          "Value": 0.0242518189
+        },
+        {
+          "Path": "Organism|Brain|Intracellular|ABCB1|Relative expression",
+          "Value": 0.07608904
+        },
+        {
+          "Path": "Organism|Gonads|Intracellular|ABCB1|Relative expression",
+          "Value": 0.017417973
+        },
+        {
+          "Path": "Organism|Heart|Intracellular|ABCB1|Relative expression",
+          "Value": 0.0419198107
+        },
+        {
+          "Path": "Organism|Kidney|Intracellular|ABCB1|Relative expression",
+          "Value": 0.7092198582
+        },
+        {
+          "Path": "Organism|LargeIntestine|Intracellular|ABCB1|Relative expression",
+          "Value": 0.1108416465
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonAscendens|Intracellular|ABCB1|Relative expression",
+          "Value": 0.3971631206
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonDescendens|Intracellular|ABCB1|Relative expression",
+          "Value": 0.3971631206
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonSigmoid|Intracellular|ABCB1|Relative expression",
+          "Value": 0.3971631206
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonTransversum|Intracellular|ABCB1|Relative expression",
+          "Value": 0.3971631206
+        },
+        {
+          "Path": "Organism|Liver|Pericentral|Intracellular|ABCB1|Relative expression",
+          "Value": 0.1916810427
+        },
+        {
+          "Path": "Organism|Liver|Periportal|Intracellular|ABCB1|Relative expression",
+          "Value": 0.1916810427
+        },
+        {
+          "Path": "Organism|Lung|Intracellular|ABCB1|Relative expression",
+          "Value": 0.0657549316
+        },
+        {
+          "Path": "Organism|Muscle|Intracellular|ABCB1|Relative expression",
+          "Value": 0.0128342959
+        },
+        {
+          "Path": "Organism|Pancreas|Intracellular|ABCB1|Relative expression",
+          "Value": 0.0142510688
+        },
+        {
+          "Path": "Organism|SmallIntestine|Intracellular|ABCB1|Relative expression",
+          "Value": 0.2808543974
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|Duodenum|Intracellular|ABCB1|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerIleum|Intracellular|ABCB1|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerJejunum|Intracellular|ABCB1|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperIleum|Intracellular|ABCB1|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperJejunum|Intracellular|ABCB1|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Spleen|Intracellular|ABCB1|Relative expression",
+          "Value": 0.0742555692
+        },
+        {
+          "Path": "Organism|Stomach|Intracellular|ABCB1|Relative expression",
+          "Value": 0.0260852897
+        }
+      ],
+      "TransportType": "Efflux",
+      "Expression": [
+        {
+          "Name": "Bone",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Brain",
+          "TransportDirection": "EffluxBrainInterstitialToPlasma",
+          "CompartmentName": "Plasma"
+        },
+        {
+          "Name": "Brain",
+          "TransportDirection": "EffluxBrainTissueToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Fat",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Gonads",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Heart",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Kidney",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Kidney",
+          "TransportDirection": "ExcretionKidney",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Stomach",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "SmallIntestine",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Duodenum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Duodenum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "UpperJejunum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "UpperJejunum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "LowerJejunum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "LowerJejunum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "UpperIleum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "UpperIleum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "LowerIleum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "LowerIleum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "LargeIntestine",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Caecum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Caecum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonAscendens",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonAscendens",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonTransversum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonTransversum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonDescendens",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonDescendens",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonSigmoid",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonSigmoid",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Rectum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Rectum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Periportal",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Periportal",
+          "TransportDirection": "ExcretionLiver",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Pericentral",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Pericentral",
+          "TransportDirection": "ExcretionLiver",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Lung",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Muscle",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Pancreas",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Skin",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Spleen",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "BloodCells",
+          "TransportDirection": "EffluxBloodCellsToPlasma"
+        },
+        {
+          "Name": "VascularEndothelium",
+          "TransportDirection": "EffluxInterstitialToPlasma"
+        }
+      ]
+    }
+  ],
+  "Individuals": [
+    {
+      "Name": "Brøsen (1989) - quinidine, n=6 (EM)",
+      "Seed": 321923796,
+      "OriginData": {
+        "CalculationMethods": [
+          "SurfaceAreaPlsInt_VAR1",
+          "Body surface area - Mosteller"
+        ],
+        "Species": "Human",
+        "Population": "European_ICRP_2002",
+        "Gender": "MALE",
+        "Age": {
+          "Value": 28.0,
+          "Unit": "year(s)"
+        }
+      },
+      "Parameters": [
+        {
+          "Path": "Organism|Liver|EHC continuous fraction",
+          "Value": 1.0
+        }
+      ],
+      "ExpressionProfiles": [
+        "CYP3A4|Human|Healthy",
+        "CYP2D6|Human|Healthy",
+        "ABCB1|Human|Healthy"
+      ]
+    }
+  ],
+  "Compounds": [
+    {
+      "Name": "Desipramine",
+      "IsSmallMolecule": true,
+      "PlasmaProteinBindingPartner": "Glycoprotein",
+      "Lipophilicity": [
+        {
+          "Name": "Optimized",
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 3.5204587578,
+              "Unit": "Log Units",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Optimized"
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Predicted",
+          "IsDefault": false,
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 3.896,
+              "Unit": "Log Units",
+              "ValueOrigin": {
+                "Source": "Database",
+                "Method": "Other",
+                "Description": "chemicalize.com"
+              }
+            }
+          ]
+        }
+      ],
+      "FractionUnbound": [
+        {
+          "Name": "Predicted",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (plasma, reference value)",
+              "Value": 0.135,
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "Other",
+                "Description": "Predicted, Watanabe et al. 2018"
+              }
+            }
+          ]
+        }
+      ],
+      "Solubility": [
+        {
+          "Name": "Predicted",
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 214.29,
+              "Unit": "mg/l",
+              "ValueOrigin": {
+                "Source": "Database",
+                "Method": "Other",
+                "Description": "chemicalize.com"
+              }
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 6.5,
+              "ValueOrigin": {
+                "Source": "Database",
+                "Method": "Other",
+                "Description": "chemicalize.com"
+              }
+            }
+          ]
+        }
+      ],
+      "IntestinalPermeability": [
+        {
+          "Name": "Optimized",
+          "Parameters": [
+            {
+              "Name": "Specific intestinal permeability (transcellular)",
+              "Value": 1.14E-05,
+              "Unit": "cm/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification"
+              }
+            }
+          ]
+        }
+      ],
+      "PkaTypes": [
+        {
+          "Type": "Base",
+          "Pka": 10.02,
+          "ValueOrigin": {
+            "Source": "Database",
+            "Method": "Other",
+            "Description": "chemicalize.com"
+          }
+        },
+        {
+          "Type": "Base",
+          "Pka": 2.84,
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        }
+      ],
+      "Processes": [
+        {
+          "InternalName": "GlomerularFiltration",
+          "DataSource": "Assumption",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "GFR fraction",
+              "Value": 1.0,
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Parameter Identification 32' on 2019-07-05 09:16"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "LiverClearance",
+          "DataSource": "Assumption",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (experiment)",
+              "Value": 0.14,
+              "ValueOrigin": {
+                "Source": "Unknown",
+                "Method": "Unknown"
+              }
+            },
+            {
+              "Name": "Lipophilicity (experiment)",
+              "Value": 3.52,
+              "Unit": "Log Units"
+            },
+            {
+              "Name": "Plasma clearance",
+              "Value": 0.0,
+              "Unit": "ml/min/kg"
+            },
+            {
+              "Name": "Specific clearance",
+              "Value": 0.5395490378,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Optimized"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "MetabolizationLiverMicrosomes_MM",
+          "DataSource": "Ball et al. 1997 (2-Hydroxydesipramine)",
+          "Molecule": "CYP2D6",
+          "Metabolite": "2-Hydroxydesipramine",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax for liver microsomes",
+              "Value": 68.0,
+              "Unit": "pmol/min/mg mic. protein"
+            },
+            {
+              "Name": "Content of CYP proteins in liver microsomes",
+              "Value": 10.0,
+              "Unit": "pmol/mg mic. protein",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 0.732,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Ball et al. 1997, corrected for fu,inc 12% (Austin et al. 2002)"
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 5.03,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Optimized"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "MetabolizationLiverMicrosomes_MM",
+          "DataSource": "AS=0 (2-Hydroxydesipramine)",
+          "Molecule": "CYP2D6",
+          "Metabolite": "2-Hydroxydesipramine",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax for liver microsomes",
+              "Value": 0.0,
+              "Unit": "pmol/min/mg mic. protein"
+            },
+            {
+              "Name": "Content of CYP proteins in liver microsomes",
+              "Value": 10.0,
+              "Unit": "pmol/mg mic. protein",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 0.73,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Ball et al. 1997, corrected for fu,inc 12% (Austin et al. 2002)"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "MetabolizationLiverMicrosomes_MM",
+          "DataSource": "AS=2 (2-Hydroxydesipramine)",
+          "Molecule": "CYP2D6",
+          "Metabolite": "2-Hydroxydesipramine",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax for liver microsomes",
+              "Value": 0.0,
+              "Unit": "pmol/min/mg mic. protein"
+            },
+            {
+              "Name": "Content of CYP proteins in liver microsomes",
+              "Value": 10.0,
+              "Unit": "pmol/mg mic. protein",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 0.732,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Ball et al. 1997, corrected for fu,inc 12% (Austin et al. 2002)"
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 9.86,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Optimized"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "MetabolizationLiverMicrosomes_MM",
+          "DataSource": "AS=2.5 (2-Hydroxydesipramine)",
+          "Molecule": "CYP2D6",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax for liver microsomes",
+              "Value": 0.0,
+              "Unit": "pmol/min/mg mic. protein"
+            },
+            {
+              "Name": "Content of CYP proteins in liver microsomes",
+              "Value": 10.0,
+              "Unit": "pmol/mg mic. protein",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 0.732,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Ball et al. 1997, corrected for fu,inc 12% (Austin et al. 2002)"
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 28.88,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Optimized"
+              }
+            }
+          ]
+        }
+      ],
+      "CalculationMethods": [
+        "Cellular partition coefficient method - Rodgers and Rowland",
+        "Cellular permeability - PK-Sim Standard"
+      ],
+      "Parameters": [
+        {
+          "Name": "Molecular weight",
+          "Value": 266.388,
+          "Unit": "g/mol",
+          "ValueOrigin": {
+            "Source": "Database",
+            "Method": "Other",
+            "Description": "chemicalize.com"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "2-Hydroxydesipramine",
+      "IsSmallMolecule": true,
+      "Lipophilicity": [
+        {
+          "Name": "Optimized",
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 2.33,
+              "Unit": "Log Units",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Optimized"
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Predicted",
+          "IsDefault": false,
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 3.173,
+              "Unit": "Log Units",
+              "ValueOrigin": {
+                "Source": "Database",
+                "Method": "Other",
+                "Description": "chemicalize.com"
+              }
+            }
+          ]
+        }
+      ],
+      "FractionUnbound": [
+        {
+          "Name": "Predicted",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (plasma, reference value)",
+              "Value": 0.12,
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "Other",
+                "Description": "Predicted, Watanabe et al. 2018"
+              }
+            }
+          ]
+        }
+      ],
+      "Solubility": [
+        {
+          "Name": "Predicted",
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 282.39,
+              "Unit": "mg/l",
+              "ValueOrigin": {
+                "Source": "Database",
+                "Method": "Other",
+                "Description": "chemicalize.com"
+              }
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 6.5,
+              "ValueOrigin": {
+                "Source": "Database",
+                "Method": "Other",
+                "Description": "chemicalize.com"
+              }
+            }
+          ]
+        }
+      ],
+      "PkaTypes": [
+        {
+          "Type": "Base",
+          "Pka": 9.9,
+          "ValueOrigin": {
+            "Source": "Database",
+            "Method": "Other",
+            "Description": "chemicalize.com"
+          }
+        },
+        {
+          "Type": "Acid",
+          "Pka": 10.63,
+          "ValueOrigin": {
+            "Source": "Database",
+            "Method": "Other",
+            "Description": "chemicalize.com"
+          }
+        },
+        {
+          "Type": "Base",
+          "Pka": 4.51,
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        }
+      ],
+      "Processes": [
+        {
+          "InternalName": "GlomerularFiltration",
+          "DataSource": "Assumption",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "GFR fraction",
+              "Value": 1.0,
+              "ValueOrigin": {
+                "Source": "Other",
+                "Method": "Other",
+                "Description": "Assumption"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "LiverClearance",
+          "DataSource": "Assumption",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (experiment)",
+              "Value": 0.12
+            },
+            {
+              "Name": "Lipophilicity (experiment)",
+              "Value": 2.53,
+              "Unit": "Log Units",
+              "ValueOrigin": {
+                "Source": "Unknown",
+                "Method": "Unknown"
+              }
+            },
+            {
+              "Name": "Plasma clearance",
+              "Value": 0.0,
+              "Unit": "ml/min/kg"
+            },
+            {
+              "Name": "Specific clearance",
+              "Value": 9.93,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Optimized"
+              }
+            }
+          ]
+        }
+      ],
+      "CalculationMethods": [
+        "Cellular partition coefficient method - Rodgers and Rowland",
+        "Cellular permeability - PK-Sim Standard"
+      ],
+      "Parameters": [
+        {
+          "Name": "Molecular weight",
+          "Value": 282.38,
+          "Unit": "g/mol",
+          "ValueOrigin": {
+            "Source": "Database",
+            "Method": "Other",
+            "Description": "chemicalize.com"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "Quinidine",
+      "IsSmallMolecule": true,
+      "PlasmaProteinBindingPartner": "Albumin",
+      "Lipophilicity": [
+        {
+          "Name": "Measurement",
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 2.51,
+              "Unit": "Log Units",
+              "ValueOrigin": {
+                "Source": "Internet",
+                "Method": "Unknown",
+                "Description": "drugbank"
+              }
+            }
+          ]
+        }
+      ],
+      "FractionUnbound": [
+        {
+          "Name": "Measurement",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (plasma, reference value)",
+              "Value": 0.2108366055,
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "Other",
+                "Description": "Predicted, Watanabe et al. 2018 (DruMAP from SMILES)"
+              }
+            }
+          ]
+        }
+      ],
+      "Solubility": [
+        {
+          "Name": "quinidine sulfate solubility (Grube 2008)",
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 11.11,
+              "Unit": "mg/ml",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Grube 2009"
+              }
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 7.0,
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Grube 2009"
+              }
+            }
+          ]
+        }
+      ],
+      "IntestinalPermeability": [
+        {
+          "Name": "FIT",
+          "Parameters": [
+            {
+              "Name": "Specific intestinal permeability (transcellular)",
+              "Value": 8.2422057298E-06,
+              "Unit": "cm/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Optimized"
+              }
+            }
+          ]
+        }
+      ],
+      "PkaTypes": [
+        {
+          "Type": "Base",
+          "Pka": 9.05,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Method": "InVitro",
+            "Description": "Takano2016, drugbank"
+          }
+        },
+        {
+          "Type": "Base",
+          "Pka": 4.02,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Method": "InVitro",
+            "Description": "Takano2016, drugbank"
+          }
+        },
+        {
+          "Type": "Acid",
+          "Pka": 13.89,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Method": "InVitro",
+            "Description": "Takano2016, drugbank"
+          }
+        }
+      ],
+      "Processes": [
+        {
+          "InternalName": "GlomerularFiltration",
+          "DataSource": "ASSUMPTION",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "GFR fraction",
+              "Value": 1.0,
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Parameter Identification 1' on 2018-09-24 13:29"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "CompetitiveInhibition",
+          "DataSource": "Moghadamnia 2003",
+          "Molecule": "CYP2D6",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 0.017,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "Other",
+                "Description": "Mohagdamnia 2003"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "CompetitiveInhibition",
+          "DataSource": "Lumen et al., 2010",
+          "Molecule": "ABCB1",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 0.1,
+              "Unit": "µmol/l"
+            }
+          ]
+        },
+        {
+          "InternalName": "MetabolizationLiverMicrosomes_MM",
+          "DataSource": "Nielsen 1999 (3-Hydroxyquinidine), adjusted for fu,inc (70%)",
+          "Molecule": "CYP3A4",
+          "Metabolite": "3-Hydroxyquinidine",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax for liver microsomes",
+              "Value": 1.097,
+              "Unit": "nmol/min/mg mic. protein",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Nielsen 1999"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 51.8,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Nielsen 1999, corrected for fu,inc (70%)"
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 1.8709881023,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Optimized"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "MetabolizationLiverMicrosomes_MM",
+          "DataSource": "Nielsen 1999 (sink), adjusted for fu,inc (70%)",
+          "Molecule": "CYP3A4",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax for liver microsomes",
+              "Value": 0.27,
+              "Unit": "nmol/min/mg mic. protein",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Nielsen 1999"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 65.03,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Nielsen 1999, corrected for fu,inc (70%)"
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 0.460498439,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Optimized"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "ActiveTransportSpecific_MM",
+          "DataSource": "Takano2016",
+          "Molecule": "ABCB1",
+          "Parameters": [
+            {
+              "Name": "Transporter concentration",
+              "Value": 1.0,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "Vmax",
+              "Value": 0.0,
+              "Unit": "µmol/l/min"
+            },
+            {
+              "Name": "Km",
+              "Value": 1.26,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Takano 2016"
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 4.9065802753,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Optimized"
+              }
+            }
+          ],
+          "Description": "A transporter mediated unidirectional transfer of a compound across a cellular membrane is described as saturable process following Michaelis-Menten type kinetics. The corresponding kcat value is calculated from a specific Vmax as input value."
+        },
+        {
+          "InternalName": "LiverClearance",
+          "DataSource": "Assumed",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (experiment)",
+              "Value": 0.2108366055
+            },
+            {
+              "Name": "Lipophilicity (experiment)",
+              "Value": 2.51,
+              "Unit": "Log Units"
+            },
+            {
+              "Name": "Plasma clearance",
+              "Value": 0.0,
+              "Unit": "ml/min/kg"
+            }
+          ]
+        }
+      ],
+      "CalculationMethods": [
+        "Cellular partition coefficient method - Berezhkovskiy",
+        "Cellular permeability - PK-Sim Standard"
+      ],
+      "Parameters": [
+        {
+          "Name": "Molecular weight",
+          "Value": 324.42,
+          "Unit": "g/mol"
+        }
+      ]
+    },
+    {
+      "Name": "3-Hydroxyquinidine",
+      "IsSmallMolecule": true,
+      "PlasmaProteinBindingPartner": "Albumin",
+      "Lipophilicity": [
+        {
+          "Name": "Predicted",
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 1.66,
+              "Unit": "Log Units",
+              "ValueOrigin": {
+                "Source": "Internet",
+                "Method": "Unknown",
+                "Description": "chemicalize.org"
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Chemicalize",
+          "IsDefault": false,
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 1.66,
+              "Unit": "Log Units"
+            }
+          ]
+        }
+      ],
+      "FractionUnbound": [
+        {
+          "Name": "Measurement",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (plasma, reference value)",
+              "Value": 0.3097,
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "Other",
+                "Description": "Predicted, Watanabe et al. 2018 (DruMAP from SMILES)"
+              }
+            }
+          ]
+        }
+      ],
+      "Solubility": [
+        {
+          "Name": "Measurement",
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 12.57,
+              "Unit": "mg/ml",
+              "ValueOrigin": {
+                "Source": "Unknown",
+                "Description": "chemicalize.org"
+              }
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 7.4,
+              "ValueOrigin": {
+                "Source": "Unknown",
+                "Description": "chemicalize.org"
+              }
+            }
+          ]
+        }
+      ],
+      "PkaTypes": [
+        {
+          "Type": "Base",
+          "Pka": 8.63,
+          "ValueOrigin": {
+            "Source": "Unknown",
+            "Description": "drugbank"
+          }
+        },
+        {
+          "Type": "Base",
+          "Pka": 4.03,
+          "ValueOrigin": {
+            "Source": "Unknown",
+            "Description": "drugbank"
+          }
+        },
+        {
+          "Type": "Acid",
+          "Pka": 13.55,
+          "ValueOrigin": {
+            "Source": "Unknown",
+            "Description": "drugbank"
+          }
+        }
+      ],
+      "Processes": [
+        {
+          "InternalName": "CompetitiveInhibition",
+          "DataSource": "CHING, 1991",
+          "Molecule": "CYP2D6",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 2.3,
+              "Unit": "µmol/l"
+            }
+          ]
+        },
+        {
+          "InternalName": "GlomerularFiltration",
+          "DataSource": "Assumption",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "GFR fraction",
+              "Value": 1.0,
+              "ValueOrigin": {
+                "Source": "Other",
+                "Method": "Assumption",
+                "Description": "Assumed"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "LiverClearance",
+          "DataSource": "Assumption",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (experiment)",
+              "Value": 0.15
+            },
+            {
+              "Name": "Lipophilicity (experiment)",
+              "Value": 2.41,
+              "Unit": "Log Units"
+            },
+            {
+              "Name": "Plasma clearance",
+              "Value": 0.0,
+              "Unit": "ml/min/kg"
+            },
+            {
+              "Name": "Specific clearance",
+              "Value": 0.3868032228,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Optimized"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "MetabolizationIntrinsic_FirstOrder",
+          "DataSource": "Assumed",
+          "Species": "Human",
+          "Molecule": "CYP3A4",
+          "Parameters": [
+            {
+              "Name": "Intrinsic clearance",
+              "Value": 0.0,
+              "Unit": "l/min"
+            },
+            {
+              "Name": "Specific clearance",
+              "Value": 0.075407751,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Optimized"
+              }
+            }
+          ]
+        }
+      ],
+      "CalculationMethods": [
+        "Cellular partition coefficient method - Berezhkovskiy",
+        "Cellular permeability - PK-Sim Standard"
+      ],
+      "Parameters": [
+        {
+          "Name": "Molecular weight",
+          "Value": 340.4162,
+          "Unit": "g/mol"
+        }
+      ]
+    }
+  ],
+  "Formulations": [
+    {
+      "Name": "dissolved",
+      "FormulationType": "Formulation_Dissolved"
+    },
+    {
+      "Name": "quinidine sulfate sustained release (weibull)",
+      "FormulationType": "Formulation_Tablet_Weibull",
+      "Parameters": [
+        {
+          "Name": "Dissolution time (50% dissolved)",
+          "Value": 142.0,
+          "Unit": "min"
+        },
+        {
+          "Name": "Lag time",
+          "Value": 0.0,
+          "Unit": "min"
+        },
+        {
+          "Name": "Dissolution shape",
+          "Value": 0.84
+        },
+        {
+          "Name": "Use as suspension",
+          "Value": 1.0
+        }
+      ]
+    }
+  ],
+  "Protocols": [
+    {
+      "Name": "desipramine hydrochloride 100 mg peroral s.d.",
+      "ApplicationType": "Oral",
+      "DosingInterval": "Single",
+      "Parameters": [
+        {
+          "Name": "Start time",
+          "Value": 0.0,
+          "Unit": "h"
+        },
+        {
+          "Name": "InputDose",
+          "Value": 87.96,
+          "Unit": "mg"
+        },
+        {
+          "Name": "Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        }
+      ]
+    },
+    {
+      "Name": "Brøsen (1989) - quinidine sulfate 200 mg q.d. 12 days",
+      "ApplicationType": "Oral",
+      "DosingInterval": "DI_24",
+      "Parameters": [
+        {
+          "Name": "Start time",
+          "Value": 0.0,
+          "Unit": "h"
+        },
+        {
+          "Name": "InputDose",
+          "Value": 173.74,
+          "Unit": "mg"
+        },
+        {
+          "Name": "Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Name": "End time",
+          "Value": 289.0,
+          "Unit": "h",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "Brøsen (1989) - desipramine hydrochloride 100 mg peroral s.d.@ 60 h",
+      "DosingInterval": "Single",
+      "Schemas": [
+        {
+          "Name": "Schema 1",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 87.96,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 60.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 1.0
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 0.0,
+              "Unit": "h"
+            }
+          ]
+        }
+      ],
+      "TimeUnit": "h"
+    }
+  ],
+  "Simulations": [
+    {
+      "Name": "Brøsen (1989) - DDI - quinidine-desipramine, po, 200/100 mg, n=6 (EM)",
+      "Model": "4Comp",
+      "ObservedData": [
+        "Brøsen (1989) - DDI - quinidine-desipramine, po, 200/100 mg, n=6 (EM), 3-hydroxyquinidine",
+        "Brøsen (1989) - DDI - quinidine-desipramine, po, 200/100 mg, n=6 (EM), quinidine",
+        "Brøsen (1989) - DDI - quinidine-desipramine, po, 200/100 mg, n=6 (EM), desipramine"
+      ],
+      "Solver": {},
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 2.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h"
+            }
+          ]
+        },
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 2.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 313.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "Resolution",
+              "Value": 4.0,
+              "Unit": "pts/h"
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Applications|Brøsen (1989) - desipramine hydrochloride 100 mg peroral s.d.@ 60 h|dissolved|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Brøsen (1989) - quinidine sulfate 200 mg q.d. 12 days|quinidine sulfate sustained release (weibull)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Brøsen (1989) - quinidine sulfate 200 mg q.d. 12 days|quinidine sulfate sustained release (weibull)|Application_10|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Brøsen (1989) - quinidine sulfate 200 mg q.d. 12 days|quinidine sulfate sustained release (weibull)|Application_11|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Brøsen (1989) - quinidine sulfate 200 mg q.d. 12 days|quinidine sulfate sustained release (weibull)|Application_12|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Brøsen (1989) - quinidine sulfate 200 mg q.d. 12 days|quinidine sulfate sustained release (weibull)|Application_13|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Brøsen (1989) - quinidine sulfate 200 mg q.d. 12 days|quinidine sulfate sustained release (weibull)|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Brøsen (1989) - quinidine sulfate 200 mg q.d. 12 days|quinidine sulfate sustained release (weibull)|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Brøsen (1989) - quinidine sulfate 200 mg q.d. 12 days|quinidine sulfate sustained release (weibull)|Application_4|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Brøsen (1989) - quinidine sulfate 200 mg q.d. 12 days|quinidine sulfate sustained release (weibull)|Application_5|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Brøsen (1989) - quinidine sulfate 200 mg q.d. 12 days|quinidine sulfate sustained release (weibull)|Application_6|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Brøsen (1989) - quinidine sulfate 200 mg q.d. 12 days|quinidine sulfate sustained release (weibull)|Application_7|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Brøsen (1989) - quinidine sulfate 200 mg q.d. 12 days|quinidine sulfate sustained release (weibull)|Application_8|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Brøsen (1989) - quinidine sulfate 200 mg q.d. 12 days|quinidine sulfate sustained release (weibull)|Application_9|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Undefined Liver|Reference concentration",
+          "Value": 1.0,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (intestine)",
+          "Value": 1380.0,
+          "Unit": "min"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (liver)",
+          "Value": 2160.0,
+          "Unit": "min"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|Quinidine|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|3-Hydroxyquinidine|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|2-Hydroxydesipramine|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|Desipramine|Plasma (Peripheral Venous Blood)"
+      ],
+      "Individual": "Brøsen (1989) - quinidine, n=6 (EM)",
+      "Compounds": [
+        {
+          "Name": "Quinidine",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Berezhkovskiy",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "FIT",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Nielsen 1999 (3-Hydroxyquinidine), adjusted for fu,inc (70%)",
+              "MoleculeName": "CYP3A4",
+              "MetaboliteName": "3-Hydroxyquinidine"
+            },
+            {
+              "Name": "CYP3A4-Nielsen 1999 (sink), adjusted for fu,inc (70%)",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "MoleculeName": "CYP2D6"
+            },
+            {
+              "Name": "Total Hepatic Clearance-Assumed",
+              "SystemicProcessType": "Hepatic"
+            },
+            {
+              "Name": "ABCB1-Takano2016",
+              "MoleculeName": "ABCB1"
+            },
+            {
+              "Name": "Glomerular Filtration-ASSUMPTION",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Brøsen (1989) - quinidine sulfate 200 mg q.d. 12 days",
+            "Formulations": [
+              {
+                "Name": "quinidine sulfate sustained release (weibull)",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "3-Hydroxyquinidine",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Berezhkovskiy",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Predicted",
+              "GroupName": "COMPOUND_LIPOPHILICITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Assumed",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "MoleculeName": "CYP2D6"
+            },
+            {
+              "Name": "Total Hepatic Clearance-Assumption",
+              "SystemicProcessType": "Hepatic"
+            },
+            {
+              "Name": "Glomerular Filtration-Assumption",
+              "SystemicProcessType": "GFR"
+            }
+          ]
+        },
+        {
+          "Name": "2-Hydroxydesipramine",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Optimized",
+              "GroupName": "COMPOUND_LIPOPHILICITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "Total Hepatic Clearance-Assumption",
+              "SystemicProcessType": "Hepatic"
+            },
+            {
+              "Name": "Glomerular Filtration-Assumption",
+              "SystemicProcessType": "GFR"
+            }
+          ]
+        },
+        {
+          "Name": "Desipramine",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Optimized",
+              "GroupName": "COMPOUND_LIPOPHILICITY"
+            },
+            {
+              "AlternativeName": "Optimized",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "CYP2D6-Ball et al. 1997 (2-Hydroxydesipramine)",
+              "MoleculeName": "CYP2D6",
+              "MetaboliteName": "2-Hydroxydesipramine"
+            },
+            {
+              "Name": "Total Hepatic Clearance-Assumption",
+              "SystemicProcessType": "Hepatic"
+            },
+            {
+              "Name": "Glomerular Filtration-Assumption",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Brøsen (1989) - desipramine hydrochloride 100 mg peroral s.d.@ 60 h",
+            "Formulations": [
+              {
+                "Name": "dissolved",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "ng/ml",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Brøsen (1989) - DDI - quinidine-desipramine, po, 200/100 mg, n=6 (EM)-3-Hydroxyquinidine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Brøsen (1989) - DDI - quinidine-desipramine, po, 200/100 mg, n=6 (EM)|Organism|PeripheralVenousBlood|3-Hydroxyquinidine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Brøsen (1989) - DDI - quinidine-desipramine, po, 200/100 mg, n=6 (EM)-Quinidine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Brøsen (1989) - DDI - quinidine-desipramine, po, 200/100 mg, n=6 (EM)|Organism|PeripheralVenousBlood|Quinidine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 2
+              }
+            },
+            {
+              "Name": "BR89_PO_100_OHQ_200_QUI_EM_87_DDI-3-Hydroxyquinidine-Peripheral Venous Blood-Plasma-[ng/mL]",
+              "X": "Brøsen (1989) - DDI - quinidine-desipramine, po, 200/100 mg, n=6 (EM), 3-hydroxyquinidine|[h]",
+              "Y": "Brøsen (1989) - DDI - quinidine-desipramine, po, 200/100 mg, n=6 (EM), 3-hydroxyquinidine|ObservedData|Peripheral Venous Blood|Plasma|3-Hydroxyquinidine|[ng/mL]",
+              "CurveOptions": {
+                "Color": "#008000",
+                "LegendIndex": 3,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "BR89_PO_100_QUI_200_QUI_EM_87_DDI-Quinidine-Peripheral Venous Blood-Plasma-[ng/mL]",
+              "X": "Brøsen (1989) - DDI - quinidine-desipramine, po, 200/100 mg, n=6 (EM), quinidine|[h]",
+              "Y": "Brøsen (1989) - DDI - quinidine-desipramine, po, 200/100 mg, n=6 (EM), quinidine|ObservedData|Peripheral Venous Blood|Plasma|Quinidine|[ng/mL]",
+              "CurveOptions": {
+                "Color": "#FF00FF",
+                "LegendIndex": 4,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "BR89_PO_100_DES_200_QUI_EM_87_DDI-Desipramine-Peripheral Venous Blood-Plasma-[ng/mL]",
+              "X": "Brøsen (1989) - DDI - quinidine-desipramine, po, 200/100 mg, n=6 (EM), desipramine|[h]",
+              "Y": "Brøsen (1989) - DDI - quinidine-desipramine, po, 200/100 mg, n=6 (EM), desipramine|ObservedData|Peripheral Venous Blood|Plasma|Desipramine|[ng/mL]",
+              "CurveOptions": {
+                "Color": "#FF8000",
+                "LegendIndex": 5,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Brøsen (1989) - DDI - quinidine-desipramine, po, 200/100 mg, n=6 (EM)-Desipramine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Brøsen (1989) - DDI - quinidine-desipramine, po, 200/100 mg, n=6 (EM)|Organism|PeripheralVenousBlood|Desipramine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#00C0C0",
+                "LegendIndex": 6
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "None",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Quinidine-Desipramine-DDI\nBrøsen (1989) - DDI - quinidine-desipramine, po, 200/100 mg, n=6 (EM)\n2024-01-19 11:41"
+        }
+      ],
+      "Interactions": [
+        {
+          "Name": "CYP2D6-Moghadamnia 2003",
+          "MoleculeName": "CYP2D6",
+          "CompoundName": "Quinidine"
+        },
+        {
+          "Name": "ABCB1-Lumen et al., 2010",
+          "MoleculeName": "ABCB1",
+          "CompoundName": "Quinidine"
+        },
+        {
+          "Name": "CYP2D6-CHING, 1991",
+          "MoleculeName": "CYP2D6",
+          "CompoundName": "3-Hydroxyquinidine"
+        }
+      ]
+    },
+    {
+      "Name": "Brøsen (1989) - desipramine hydrochloride, po, 100 mg, n=6 (EM)",
+      "Model": "4Comp",
+      "ObservedData": [
+        "Brøsen (1989) - desipramine hydrochloride, po, 100 mg, n=6 (EM), 2-hydroxydesipramine",
+        "Brøsen (1989) - desipramine hydrochloride, po, 100 mg, n=6 (EM), desipramine"
+      ],
+      "Solver": {},
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 300.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h"
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Applications|desipramine hydrochloride 100 mg peroral s.d.|dissolved|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Undefined Liver|Reference concentration",
+          "Value": 1.0,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (intestine)",
+          "Value": 1380.0,
+          "Unit": "min"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (liver)",
+          "Value": 2160.0,
+          "Unit": "min"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|2-Hydroxydesipramine|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|Desipramine|Plasma (Peripheral Venous Blood)"
+      ],
+      "Individual": "Brøsen (1989) - quinidine, n=6 (EM)",
+      "Compounds": [
+        {
+          "Name": "2-Hydroxydesipramine",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Optimized",
+              "GroupName": "COMPOUND_LIPOPHILICITY"
+            }
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "MoleculeName": "CYP2D6"
+            },
+            {
+              "Name": "Total Hepatic Clearance-Assumption",
+              "SystemicProcessType": "Hepatic"
+            },
+            {
+              "Name": "Glomerular Filtration-Assumption",
+              "SystemicProcessType": "GFR"
+            }
+          ]
+        },
+        {
+          "Name": "Desipramine",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Optimized",
+              "GroupName": "COMPOUND_LIPOPHILICITY"
+            },
+            {
+              "AlternativeName": "Optimized",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "CYP2D6-Ball et al. 1997 (2-Hydroxydesipramine)",
+              "MoleculeName": "CYP2D6",
+              "MetaboliteName": "2-Hydroxydesipramine"
+            },
+            {
+              "Name": "Total Hepatic Clearance-Assumption",
+              "SystemicProcessType": "Hepatic"
+            },
+            {
+              "Name": "Glomerular Filtration-Assumption",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "desipramine hydrochloride 100 mg peroral s.d.",
+            "Formulations": [
+              {
+                "Name": "dissolved",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Brøsen (1989) - desipramine hydrochloride, po, 100 mg, n=6 (EM)-2-Hydroxydesipramine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Brøsen (1989) - desipramine hydrochloride, po, 100 mg, n=6 (EM)|Organism|PeripheralVenousBlood|2-Hydroxydesipramine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Brøsen (1989) - desipramine hydrochloride, po, 100 mg, n=6 (EM)-Desipramine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Brøsen (1989) - desipramine hydrochloride, po, 100 mg, n=6 (EM)|Organism|PeripheralVenousBlood|Desipramine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 2
+              }
+            },
+            {
+              "Name": "Brøsen (1989) - desipramine hydrochloride, po, 100 mg, n=6 (EM), 2-hydroxydesipramine-Peripheral Venous Blood-Plasma-Measurement",
+              "X": "Brøsen (1989) - desipramine hydrochloride, po, 100 mg, n=6 (EM), 2-hydroxydesipramine|Time",
+              "Y": "Brøsen (1989) - desipramine hydrochloride, po, 100 mg, n=6 (EM), 2-hydroxydesipramine|ObservedData|Peripheral Venous Blood|Plasma||Measurement",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 4,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Brøsen (1989) - desipramine hydrochloride, po, 100 mg, n=6 (EM), desipramine-Desipramine-Peripheral Venous Blood-Plasma-Measurement",
+              "X": "Brøsen (1989) - desipramine hydrochloride, po, 100 mg, n=6 (EM), desipramine|Time",
+              "Y": "Brøsen (1989) - desipramine hydrochloride, po, 100 mg, n=6 (EM), desipramine|ObservedData|Peripheral Venous Blood|Plasma|Desipramine|Measurement",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 3,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Quinidine-Desipramine-DDI\nBrøsen (1989) - desipramine hydrochloride, po, 100 mg, n=6 (EM)\n2024-01-19 11:42"
+        }
+      ]
+    }
+  ],
+  "ObservedData": [
+    {
+      "Name": "Brøsen (1989) - DDI - quinidine-desipramine, po, 200/100 mg, n=6 (EM), quinidine",
+      "ExtendedProperties": [
+        {
+          "Name": "Molecule",
+          "Value": "Quinidine"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "[ng/mL]",
+          "RelatedColumns": [
+            {
+              "Name": "[ng/mL](1)",
+              "QuantityInfo": {
+                "Path": "Brøsen (1989) - DDI - quinidine-desipramine, po, 200/100 mg, n=6 (EM), quinidine|ObservedData|Peripheral Venous Blood|Plasma|Quinidine|[ng/mL](1)"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 324.42
+              },
+              "Values": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Dimension": "Concentration (mass)",
+              "Unit": "mg/l"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Brøsen (1989) - DDI - quinidine-desipramine, po, 200/100 mg, n=6 (EM), quinidine|ObservedData|Peripheral Venous Blood|Plasma|Quinidine|[ng/mL]"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 324.42
+          },
+          "Values": [
+            355.284119,
+            303.99295,
+            247.4103,
+            301.688568,
+            269.863281,
+            247.758011
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "ng/ml"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "[h]",
+        "QuantityInfo": {
+          "Path": "Brøsen (1989) - DDI - quinidine-desipramine, po, 200/100 mg, n=6 (EM), quinidine|[h]",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          60.2922363,
+          84.54795,
+          108.073067,
+          132.109589,
+          204.43837,
+          276.474884
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Brøsen (1989) - DDI - quinidine-desipramine, po, 200/100 mg, n=6 (EM), 3-hydroxyquinidine",
+      "ExtendedProperties": [
+        {
+          "Name": "Molecule",
+          "Value": "3-Hydroxyquinidine"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "[ng/mL]",
+          "RelatedColumns": [
+            {
+              "Name": "[ng/mL](1)",
+              "QuantityInfo": {
+                "Path": "Brøsen (1989) - DDI - quinidine-desipramine, po, 200/100 mg, n=6 (EM), 3-hydroxyquinidine|ObservedData|Peripheral Venous Blood|Plasma|3-Hydroxyquinidine|[ng/mL](1)"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 340.4162
+              },
+              "Values": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Dimension": "Concentration (mass)",
+              "Unit": "mg/l"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Brøsen (1989) - DDI - quinidine-desipramine, po, 200/100 mg, n=6 (EM), 3-hydroxyquinidine|ObservedData|Peripheral Venous Blood|Plasma|3-Hydroxyquinidine|[ng/mL]"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 340.4162
+          },
+          "Values": [
+            82.91699,
+            98.9057846,
+            94.47513,
+            93.17906,
+            92.6773,
+            88.2069244
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "ng/ml"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "[h]",
+        "QuantityInfo": {
+          "Path": "Brøsen (1989) - DDI - quinidine-desipramine, po, 200/100 mg, n=6 (EM), 3-hydroxyquinidine|[h]",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          60.2191772,
+          83.89041,
+          108.219185,
+          131.817352,
+          204.3653,
+          276.182648
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Brøsen (1989) - DDI - quinidine-desipramine, po, 200/100 mg, n=6 (EM), desipramine",
+      "ExtendedProperties": [
+        {
+          "Name": "Molecule",
+          "Value": "Desipramine"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "[ng/mL]",
+          "RelatedColumns": [
+            {
+              "Name": "[ng/mL](1)",
+              "QuantityInfo": {
+                "Path": "Brøsen (1989) - DDI - quinidine-desipramine, po, 200/100 mg, n=6 (EM), desipramine|ObservedData|Peripheral Venous Blood|Plasma|Desipramine|[ng/mL](1)"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 266.388
+              },
+              "Values": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Dimension": "Concentration (mass)",
+              "Unit": "mg/l"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Brøsen (1989) - DDI - quinidine-desipramine, po, 200/100 mg, n=6 (EM), desipramine|ObservedData|Peripheral Venous Blood|Plasma|Desipramine|[ng/mL]"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 266.388
+          },
+          "Values": [
+            9.779525,
+            33.9447861,
+            44.59904,
+            56.1788979,
+            62.3598671,
+            64.78523,
+            66.63266,
+            64.91805,
+            61.4945335,
+            67.3128,
+            57.9087029,
+            51.65601,
+            43.65026,
+            22.7940788,
+            14.6659346
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "ng/ml"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "[h]",
+        "QuantityInfo": {
+          "Path": "Brøsen (1989) - DDI - quinidine-desipramine, po, 200/100 mg, n=6 (EM), desipramine|[h]",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          61.3840179,
+          63.30158,
+          63.97909,
+          64.8727,
+          65.97623,
+          68.3899841,
+          70.437706,
+          73.28511,
+          75.10763,
+          84.75808,
+          91.10323,
+          108.556053,
+          132.799438,
+          205.226776,
+          276.7196
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Brøsen (1989) - desipramine hydrochloride, po, 100 mg, n=6 (EM), desipramine",
+      "ExtendedProperties": [
+        {
+          "Name": "Compartment",
+          "Value": "Plasma"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "Desipramine"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "QuantityInfo": {
+            "Path": "Brøsen (1989) - desipramine hydrochloride, po, 100 mg, n=6 (EM), desipramine|ObservedData|Peripheral Venous Blood|Plasma|Desipramine|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 266.388
+          },
+          "Values": [
+            0.038384,
+            0.1051,
+            0.14863,
+            0.15898,
+            0.15469,
+            0.14179,
+            0.13521,
+            0.12802,
+            0.11871,
+            0.10764,
+            0.0806,
+            0.06161,
+            0.027924,
+            0.013442
+          ],
+          "Dimension": "Concentration (molar)",
+          "Unit": "µmol/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Brøsen (1989) - desipramine hydrochloride, po, 100 mg, n=6 (EM), desipramine|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          1.0,
+          2.0,
+          3.0,
+          5.0,
+          6.0,
+          8.0,
+          9.0,
+          10.0,
+          12.0,
+          14.0,
+          24.0,
+          30.0,
+          48.0,
+          72.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Brøsen (1989) - desipramine hydrochloride, po, 100 mg, n=6 (EM), 2-hydroxydesipramine",
+      "ExtendedProperties": [
+        {
+          "Name": "Species",
+          "Value": "Human"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "2-Hydroxydesipramine"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "QuantityInfo": {
+            "Path": "Brøsen (1989) - desipramine hydrochloride, po, 100 mg, n=6 (EM), 2-hydroxydesipramine|ObservedData|Peripheral Venous Blood|Plasma||Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 282.38
+          },
+          "Values": [
+            0.05357,
+            0.07439,
+            0.07969,
+            0.07514,
+            0.06899,
+            0.06205,
+            0.05961,
+            0.05199,
+            0.041448,
+            0.039401,
+            0.027447,
+            0.022665
+          ],
+          "Dimension": "Concentration (molar)",
+          "Unit": "µmol/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Brøsen (1989) - desipramine hydrochloride, po, 100 mg, n=6 (EM), 2-hydroxydesipramine|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          1.0,
+          2.0,
+          4.0,
+          5.0,
+          6.0,
+          7.0,
+          10.0,
+          11.0,
+          12.0,
+          14.0,
+          24.0,
+          30.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    }
+  ],
+  "ObservedDataClassifications": [
+    {
+      "Name": "3-Hydroxyquinidine",
+      "Classifiables": [
+        "Brøsen (1989) - DDI - quinidine-desipramine, po, 200/100 mg, n=6 (EM), 3-hydroxyquinidine"
+      ]
+    },
+    {
+      "Name": "Desipramine",
+      "Classifiables": [
+        "Brøsen (1989) - DDI - quinidine-desipramine, po, 200/100 mg, n=6 (EM), desipramine",
+        "Brøsen (1989) - desipramine hydrochloride, po, 100 mg, n=6 (EM), desipramine"
+      ]
+    },
+    {
+      "Name": "Quinidine",
+      "Classifiables": [
+        "Brøsen (1989) - DDI - quinidine-desipramine, po, 200/100 mg, n=6 (EM), quinidine"
+      ]
+    },
+    {
+      "Name": "2-Hydroxydesipramine",
+      "Classifiables": [
+        "Brøsen (1989) - desipramine hydrochloride, po, 100 mg, n=6 (EM), 2-hydroxydesipramine"
+      ]
+    }
+  ],
+  "SimulationClassifications": [
+    {
+      "Name": "quinidine",
+      "Classifiables": [
+        "Brøsen (1989) - DDI - quinidine-desipramine, po, 200/100 mg, n=6 (EM)",
+        "Brøsen (1989) - desipramine hydrochloride, po, 100 mg, n=6 (EM)"
+      ]
+    }
+  ]
+}
