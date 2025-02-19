@@ -2,7 +2,9 @@
 Modeling of published quinidine-desipramine-DDI studies for model evaluation
 
 ## Repository files
-Within this repository, we distribute a PK-Sim snapshot containing simulations of all published clinical studies used to evaluate the predictive performance of the quinidine and desipramine models regarding quinidine-desipramine-DDIs, including the respective observed data digitized from literature reports. The applied quinidine model has been published previously [1]. For further details and documentation please refer to [2].
+Within this repository, we distribute a PK-Sim snapshot containing simulations of all published clinical studies used to evaluate the predictive performance of the quinidine and desipramine models regarding quinidine-desipramine-DDIs, including the respective observed data digitized from literature reports. The applied quinidine model has been published previously [1]. 
+
+For further details and documentation please refer to [2].
 
 
 ## Version information
